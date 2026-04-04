@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/nandeshkanagaraju/leetcodewnandesh/tree/master/0055-jump-game) |
+| [0217-contains-duplicate](https://github.com/nandeshkanagaraju/leetcodewnandesh/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/nandeshkanagaraju/leetcodewnandesh/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/nandeshkanagaraju/leetcodewnandesh/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/nandeshkanagaraju/leetcodewnandesh/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
