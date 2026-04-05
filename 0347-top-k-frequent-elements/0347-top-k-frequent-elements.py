@@ -1,8 +1,9 @@
 class Solution(object):
     def topKFrequent(self, nums, k):
-        cnt = Counter(nums).most_common(k)
+        cnt = Counter(nums)
+        ans = heapq.nlargest(k, cnt, key=cnt.get)
 
-        return [num for num, freq in cnt]
+        return list(ans)
 
 
 
